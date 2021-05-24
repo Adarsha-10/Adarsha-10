@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Data Science
+
 - 😄 Pronouns: He/Him
 
 ### Connect with me:
