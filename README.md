@@ -27,5 +27,3 @@
 ### 📊 Quick Stats
 ![Adarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsha-10&show_icons=true&theme=tokyonight)
 
-
-![Profile Views](https://profile-counter.glitch.me/{Adarsha-10}/count.svg)
