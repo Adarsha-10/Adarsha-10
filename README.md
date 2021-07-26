@@ -25,9 +25,9 @@
 <a href="https://seaborn.pydata.org/" target="_blank"><img height="25" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img height="35" src="https://technopremium.com/blog/wp-content/uploads/2019/08/1200px-Scikit_learn_logo_small.svg.png"></a>
 <a href="https://public.tableau.com/profile/adarsha.sahoo#!/?newProfile=&activeTab=0" target="_blank"><img height="35" src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg"></a> 
-</p>  
 <a href="https://www.tensorflow.org/" target="_blank"><img height="25" src="https://www.gstatic.com/devrel-devsite/prod/v777b98ff1be68f1af7b3b25f83928f30c18a7dbd2a5bebb30a0e65cbbadfd895/tensorflow/images/lockup.svg"></a>
 <a href="https://keras.io/" target="_blank"><img height="25" src="https://keras.io/img/logo.png"></a>
+</p>
 
 ### 📊 Quick Stats
 ![Adarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsha-10&show_icons=true&theme=tokyonight)
