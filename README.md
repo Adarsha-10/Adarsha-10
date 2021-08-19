@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning how to implement various ML algorithms to get valuable insights for business
-- 💞️ I’m looking to collaborate on ML & Data Science project
+- 💞️ I’m looking to collaborate on ML, DL & Data Science project
 
 ### Connect with me:
 
