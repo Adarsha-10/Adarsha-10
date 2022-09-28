@@ -8,10 +8,6 @@
 - 🌱 I’m currently learning how to implement various ML/DL algorithms to get valuable insights for business
 - 💞️ I’m looking to collaborate on ML, DL & Data Science project
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/adarsha-sahoo/"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/linkedin.svg" width="30px" /></a>
-<a href="https://twitter.com/adarsha05"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
 
 ### 🔨 Languages and Tools:
 
