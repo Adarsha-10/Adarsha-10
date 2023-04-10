@@ -3,7 +3,7 @@
 
 
 
-- 😄 Pronouns: He/Him
+\- 😄 Pronouns: He/Him
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning how to implement various ML/DL algorithms to get valuable insights for business
 - 💞️ I’m looking to collaborate on ML, DL & Data Science project
